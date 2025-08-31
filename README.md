@@ -4,7 +4,6 @@ AI-Based Breed Identification for Indian Cattle & Buffaloes
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.3-black.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 PashuDRISHTI is a prototype created for the Smart India Hackathon 2025. This mobile-first web app leverages deep learning to recognize Indian cattle and buffalo breeds from images, addressing the challenge of breed misclassification in the national livestock database.
 
