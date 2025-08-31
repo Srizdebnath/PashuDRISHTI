@@ -1,0 +1,38 @@
+# --- Virtual Environments ---
+# Ignore the virtual environment folder. This is critical.
+venv/
+.venv/
+env/
+.env
+
+# --- AI / ML Artifacts ---
+# Ignore large datasets and trained models. These should be downloaded separately.
+dataset/
+*.keras
+*.h5
+*.pb
+
+# --- Python Bytecode and Caches ---
+# Ignore Python's cache directory and compiled files.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDE / Editor Directories ---
+# Ignore editor-specific settings folders.
+.vscode/
+.idea/
+
+# --- Operating System Files ---
+# Ignore macOS folder attributes file.
+.DS_Store
+# Ignore Windows thumbnail cache.
+Thumbs.db
+
+# --- Temporary Files & Archives ---
+# Ignore log files, temporary files, and local archives.
+*.log
+*.tmp
+*.zip
+*.gz
