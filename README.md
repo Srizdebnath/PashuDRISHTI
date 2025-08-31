@@ -7,6 +7,9 @@ AI-Based Breed Identification for Indian Cattle & Buffaloes
 
 PashuDRISHTI is a prototype created for the Smart India Hackathon 2025. This mobile-first web app leverages deep learning to recognize Indian cattle and buffalo breeds from images, addressing the challenge of breed misclassification in the national livestock database.
 
+🎥 **Demo Video**  
+[Watch the Demo (Google Drive)](https://drive.google.com/file/d/1sgwFi-tuUr90xRDLkqg-kD11bfz3YSbB/view?usp=sharing)
+
 🚀 The Challenge  
 The Bharat Pashudhan App (BPA), managed by the Government of India, is essential for livestock data management. However, Field Level Workers (FLWs) often misidentify animal breeds, resulting in inaccurate records. This affects genetic improvement, nutrition planning, and disease management across the dairy industry.
 
